@@ -1,0 +1,7 @@
+.cube{
+
+    background-color:rgb(51, 159, 167);
+    height: 30vh;
+    width: 30vw;
+  transition: 2s;
+}
